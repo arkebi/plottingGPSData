@@ -9,7 +9,7 @@ For the tutorial introduction, see this blogpost: http://libreknwldg.blogspot.in
 2)	Start R:
 	$ R
 
-3)	Change your working directory to the folder plottingGPSData
+3)	Change your working directory to the folder plottingGPSData:
 	> setwd("path/to/plottingGPSData")
 
 4)	Load the source code of the script:
