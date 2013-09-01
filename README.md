@@ -4,7 +4,7 @@ Plotting probe vehicle GPS data on Google Earth
 For the tutorial introduction, see this blogpost: http://libreknwldg.blogspot.in/2013/08/plotting-probe-vehicle-gps-data-on.html
 
 1)	Clone the repository:
-	$ git clone 
+	$ git clone https://github.com/arkebi/plottingGPSData.git
 
 2)	Start R:
 	$ R
